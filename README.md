@@ -72,10 +72,10 @@ Provides a mathematic approach to evaluating image data
 Reading an X-ray is closer to getting blood work results with our model
 
 notebook
-![link](docs/notebook.pdf)
+!['Click'](docs/notebook.pdf)
 
 presentation
-![link](docs/presentation.pdf)
+!['Click'](docs/presentation.pdf)
 
 github
-![link](docs/github.pdf)
+!['Click'](docs/github.pdf)
